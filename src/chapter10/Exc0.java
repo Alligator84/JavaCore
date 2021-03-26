@@ -1,3 +1,4 @@
+package chapter10;
 
 public class Exc0 {
 

@@ -1,3 +1,5 @@
+package chapter10;
+
 // Пример применения вложенных операторов try
 public class NestTry {
 

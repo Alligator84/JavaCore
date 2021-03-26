@@ -1,3 +1,5 @@
+package chapter10;
+
 import javax.print.attribute.standard.NumberUp;
 
 // В версии JDK 1.4 в подсистему исключений были внедрены цепочки исключений

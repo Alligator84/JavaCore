@@ -1,3 +1,5 @@
+package chapter10;
+
 // Собственный тип исключения
 public class MyException extends Exception {
 

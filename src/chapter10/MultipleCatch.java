@@ -1,3 +1,5 @@
+package chapter10;
+
 // Продемонстрировать применение нескольких операторов catch
 public class MultipleCatch {
 

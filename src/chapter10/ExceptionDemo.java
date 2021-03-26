@@ -1,3 +1,5 @@
+package chapter10;
+
 public class ExceptionDemo {
 
     static void compute(int a) throws MyException {

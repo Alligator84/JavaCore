@@ -1,3 +1,5 @@
+package chapter10;
+
 // Операторы try могут быть неявно вложены в вызовы методов
 public class MethNestTry {
 

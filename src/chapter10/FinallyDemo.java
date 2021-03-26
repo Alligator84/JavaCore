@@ -1,4 +1,4 @@
-// Оператор finally выполняется по завершению блока кода try/catch
+package chapter10;// Оператор finally выполняется по завершению блока кода try/catch
 // но перед следующим за ним кодом
 
 public class FinallyDemo {

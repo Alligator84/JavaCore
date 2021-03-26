@@ -1,3 +1,5 @@
+package chapter10;
+
 import java.util.Random;
 
 public class HandleError {
